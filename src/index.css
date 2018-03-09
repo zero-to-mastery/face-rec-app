@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica";
+  background: linear-gradient(89deg, #a4b357 0%, #13bd04 100%);
+}
+
+button {
+	cursor: pointer;
+}
