@@ -16,5 +16,26 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "description": "\"starwars-spaceships\"",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-to-mastery/face-rec-app.git"
+  },
+  "author": "ZTM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zero-to-mastery/face-rec-app/issues"
+  },
+  "homepage": "https://github.com/zero-to-mastery/face-rec-app#readme",
+  "devDependencies": {}
 }
