@@ -30,6 +30,6 @@
   "bugs": {
     "url": "https://github.com/zero-to-mastery/face-rec-app/issues"
   },
-  "homepage": "https://github.com/zero-to-mastery/face-rec-app",
+  "homepage": "./",
   "devDependencies": {}
 }
