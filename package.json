@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "clarifai": "^2.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-particles-js": "^2.1.0",
-    "react-scripts": "1.1.1",
+    "clarifai": "^2.9.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-particles-js": "^2.4.2",
+    "react-scripts": "2.1.5",
     "react-tilt": "^0.1.4",
-    "tachyons": "^4.9.1"
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +31,11 @@
     "url": "https://github.com/zero-to-mastery/face-rec-app/issues"
   },
   "homepage": "./",
-  "devDependencies": {}
+  "devDependencies": {},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
